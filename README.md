@@ -8,7 +8,10 @@ After completing a thorough analysis of weather data for your potential investor
 
   * According to the analysis, there is potential during the months of June and December for a 60 degree difference in temperature. While that difference is fairly drastic, there were some warm days in December with the max being 78 and an average in the low 70s. This could potentially serve as suitable surf and ice cream temperatures, even during the coldest month of December. 
   * The overall max for the month of June is significantly higher than December at 83 and high 70s for the average. June and the summer months weather are more than appropraiate for surfing and ice cream.
-  * Even though there is a bit of a temperature difference between the winter and summer time in Oahu, the average temperatures for both of those times still make for good surf and ice cream weather, therefore, business year round should be more than sufficient. 
+  * Even though there is a bit of a temperature difference between the winter and summer time in Oahu, the average temperatures for both of those times still make for good surf and ice cream weather, therefore, business year round should be more than sufficient.
+
+![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ## Summary
 
