@@ -10,7 +10,7 @@ After completing a thorough analysis of weather data for your potential investor
   * The overall max for the month of June is significantly higher than December at 83 and high 70s for the average. June and the summer months weather are more than appropraiate for surfing and ice cream.
   * Even though there is a bit of a temperature difference between the winter and summer time in Oahu, the average temperatures for both of those times still make for good surf and ice cream weather, therefore, business year round should be more than sufficient.
 
-![This is an image]()
+![This is an image](https://github.com/gonzojc/surfs_up/blob/main/dec_temps.png)
 ![This is an image]()
 
 ## Summary
